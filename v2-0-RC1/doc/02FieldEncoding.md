@@ -1276,7 +1276,7 @@ Reference to type. This is equivalent to the example above.
 A field using the multi-choice encoding
 
 ```xml
-<field type="FinancialStatus" name="FinancialStatusEnum"
+<field type="FinancialStatusEnum" name="FinancialStatus"
  id="291" semanticType="MultipleCharValue"/>
 ```
 
